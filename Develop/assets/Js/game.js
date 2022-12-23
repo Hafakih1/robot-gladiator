@@ -62,7 +62,7 @@ var fight = function(enemyName) {
       window.alert(playerName + ' still has ' + playerHealth + ' health left.');
     }
   } // end of while loop
-}; // end of fight function
+};
 
 // function to start a new game
 var startGame = function() {
