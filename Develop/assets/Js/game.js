@@ -286,3 +286,5 @@ var enemyInfo = [
 
 /* RUN GAME */
 startGame();
+
+// DONE BY HUSSEIN FAKIH
